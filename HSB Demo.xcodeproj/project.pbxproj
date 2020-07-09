@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		6E20F8CC24B00D25002A4D51 /* UIViewExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E20F8CB24B00D25002A4D51 /* UIViewExtensions.swift */; };
-		6E5D834724B1FF8D00F4B792 /* UIImageExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E5D834624B1FF8D00F4B792 /* UIImageExtension.swift */; };
 		6ECA7F0624AF2084003905D9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ECA7F0524AF2084003905D9 /* AppDelegate.swift */; };
 		6ECA7F0824AF2084003905D9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ECA7F0724AF2084003905D9 /* SceneDelegate.swift */; };
 		6ECA7F0A24AF2084003905D9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ECA7F0924AF2084003905D9 /* ViewController.swift */; };
@@ -26,7 +25,6 @@
 
 /* Begin PBXFileReference section */
 		6E20F8CB24B00D25002A4D51 /* UIViewExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewExtensions.swift; sourceTree = "<group>"; };
-		6E5D834624B1FF8D00F4B792 /* UIImageExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImageExtension.swift; sourceTree = "<group>"; };
 		6ECA7F0224AF2084003905D9 /* HSB Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HSB Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6ECA7F0524AF2084003905D9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6ECA7F0724AF2084003905D9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -85,7 +83,6 @@
 				6ECA7F1324AF2085003905D9 /* Info.plist */,
 				6ECA7F2324AF227A003905D9 /* ColorSliderExtensions.swift */,
 				6E20F8CB24B00D25002A4D51 /* UIViewExtensions.swift */,
-				6E5D834624B1FF8D00F4B792 /* UIImageExtension.swift */,
 			);
 			path = "HSB Demo";
 			sourceTree = "<group>";
@@ -183,7 +180,6 @@
 			files = (
 				6E20F8CC24B00D25002A4D51 /* UIViewExtensions.swift in Sources */,
 				6ECA7F2824AF4451003905D9 /* PreviewState.swift in Sources */,
-				6E5D834724B1FF8D00F4B792 /* UIImageExtension.swift in Sources */,
 				6ECA7F2424AF227A003905D9 /* ColorSliderExtensions.swift in Sources */,
 				6ECA7F1B24AF217F003905D9 /* ColourSlider.swift in Sources */,
 				6ECA7F0A24AF2084003905D9 /* ViewController.swift in Sources */,
